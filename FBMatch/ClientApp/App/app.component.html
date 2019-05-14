@@ -1,0 +1,54 @@
+﻿<h1>Список Матчей</h1>
+<input type="button" value="Добавить" class="btn btn-default" (click)="add()" />
+<table *ngIf="tableMode; else create" class="table table-striped">
+    <thead>
+        <tr>
+            <td>Дата и время</td>
+            <td>Лига</td>
+            <td>Команда 1</td>
+            <td>Команда 2</td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let m of matches">
+            <ng-template >
+            </ng-template>
+                <td>{{m?.dateTime}}</td>
+                <td>{{m?.league}}</td>
+                <td>{{m?.teamOne}}</td>
+                <td>{{m?.teamTwo}}</td>
+                <td>
+                   
+                    <button class="btn btn-sm btn-danger" (click)="delete(m)">Удалить</button>
+                </td>
+            
+        </tr>
+    </tbody>
+</table>
+
+
+
+<!--шаблон для добавления-->
+<ng-template #create>
+    <div class="form-group">
+        <label>Дата</label>
+        <input type="text" [(ngModel)]="match.dateTime" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Лига</label>
+        <input type="text" [(ngModel)]="match.league" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Команда 1</label>
+        <input type="text" [(ngModel)]="match.teamOne" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Команда 2</label>
+        <input type="text" [(ngModel)]="match.teamTwo" class="form-control" />
+    </div>
+    <div>
+        <input type="button" value="Сохранить" (click)="save()" class="btn btn-success" />
+        <input type="button" value="Отмена" (click)="cancel()" class="btn btn-warning" />
+    </div>
+</ng-template>

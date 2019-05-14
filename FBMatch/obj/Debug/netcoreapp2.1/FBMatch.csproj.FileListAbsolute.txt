@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\bin\Debug\netcoreapp2.1\FBMatch.deps.json
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\bin\Debug\netcoreapp2.1\FBMatch.runtimeconfig.json
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\bin\Debug\netcoreapp2.1\FBMatch.runtimeconfig.dev.json
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\bin\Debug\netcoreapp2.1\FBMatch.dll
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\bin\Debug\netcoreapp2.1\FBMatch.pdb
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.AssemblyInfo.cs
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.dll
+C:\Users\1\Desktop\Dosbol\Footbal\FBMatch\FBMatch\obj\Debug\netcoreapp2.1\FBMatch.pdb
